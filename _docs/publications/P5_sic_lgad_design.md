@@ -11,8 +11,8 @@ use_math: true
 
 **Conclusion** The working voltage and gain effectiveness of the LGAD were verified by the simulation of electrical performances. The time resolution of the LGAD is (35.0 ± 0.2) ps under the electrical field of −800 V, which is better than that of the 4H-SiC PIN detector.
 
-<a href="/docs/publications/P5_sic_lgad_design_fig6.png">
-<img src="/docs/publications/P5_sic_lgad_design_fig6.png" width="600"/>
+<a href="/docs/publications/p5_sic_lgad_design_fig6.png">
+<img src="/docs/publications/p5_sic_lgad_design_fig6.png" width="600"/>
 </a>
 
 

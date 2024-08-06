@@ -11,8 +11,8 @@ use_math: true
 
 **Conclusion**  The results reveal that the beam monitor system can be used for the 1.6 GeV proton beam of China Spallation Neutron Source.
 
-<a href="/docs/publications/p7_sic_bmos_fig6.png">
-<img src="/docs/publications/p7_sic_bmos_fig6.png" width="600"/>
+<a href="/docs/publications/p7_sic_bmos_fig1.png">
+<img src="/docs/publications/p7_sic_bmos_fig1.png" width="600"/>
 </a>
 
 Further reading: Y. He, et al. High-precision CSNS beam monitor system conceptual design based on SiC, [Radiat Detect Technol Methods (2024)](https://doi.org/10.1007/s41605-024-00487-4)

@@ -1,6 +1,7 @@
 - title: Publications
   pages:
-    - publications/p8_CSNS_ITK  
+    - publications/p8_CSNS_ITK
+    - publications/p7_sic_bmos
     - publications/p6_sic_lgad_sim
     - publications/p5_sic_lgad_design
     - publications/p4_lgad_hpk_tct

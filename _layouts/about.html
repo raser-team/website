@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% include sidebar.html toc=site.data.about cols=site.about  path="about" %}
+
+<article class="chapter">
+  {% include chapter_title.html %}
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% include chapter_links.html toc=site.data.about  cols=site.about  path="about" %}
+</article>
+

@@ -11,6 +11,7 @@ The member institutes are:
 
 - [Beijing Conveyi Limited](http://www.conveyi.com) 
 - [Dalian University of Technology](https://www.dlut.edu.cn) 
+- [Hefei University of Technology](http://www.hfut.edu.cn)
 - [Institute of High Energy Physics](http://www.ihep.cas.cn)
 - [Institute of Microelectronics](http://www.ime.cas.cn)
 - [Jilin University](https://www.jlu.edu.cn)
@@ -23,6 +24,7 @@ The member institutes are:
 - [Sun Yat-Sen University](https://www.sysu.edu.cn)
 - [Tsinghua University](https://www.tsinghua.edu.cn) 
 - [Tsung-Dao Lee Institute](https://tdli.sjtu.edu.cn) 
+- [Yanshan University](http://www.ysu.edu.cn)
 - [Zhangjiang Laboratory](https://www.zjlab.ac.cn)
 
 

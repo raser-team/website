@@ -31,9 +31,6 @@ curve, CCE and time resolution.
 - Tennis
 - Photography
 
-<img src="/about/grean_in_winter.jpg" width="200"/>
-<img src="/about/leaves_in_ihep.jpg" width="200"/>
-
 ## Publications
 
 - Sen Zhao, _et al_., Electrical Properties and Gain Performance of 4H-SiC LGAD (SICAR), [IEEE Transactions on Nuclear Science, vol. 71, no. 11, pp. 2417-2421](https://doi.org/10.1109/TNS.2024.3471863) 

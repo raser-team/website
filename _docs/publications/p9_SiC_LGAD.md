@@ -15,7 +15,7 @@ The 4H-SiC material exhibits good detection performance, but there are still man
 
 <img src="/docs/publications/p9_SiC_LGAD_fig5.png" width="600"/>
 
-</a>
+
 
 
 

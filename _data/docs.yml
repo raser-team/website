@@ -4,8 +4,10 @@
   - raser 
 
 
-- title: P11 - P14 
+- title: P11 - P16
   pages:
+    - publications/p16_proton_irrad_defect
+    - publications/p15_cepc_fast_lumi
     - publications/p14_rise_time_graphene
     - publications/p13_rad_sic_lgad_80_mev
     - publications/p12_si_rad_sim
